@@ -101,7 +101,6 @@ class _MyHomePageState extends State<MyHomePage> {
           // horizontal).
           //
 
-          // wireframe for each widget.
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
