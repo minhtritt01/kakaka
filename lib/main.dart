@@ -101,7 +101,6 @@ class _MyHomePageState extends State<MyHomePage> {
           // horizontal).
           //
 
-          // action in the IDE, or press "p" in the console), to see the
           // wireframe for each widget.
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
